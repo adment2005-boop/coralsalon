@@ -1,0 +1,6 @@
+{
+  "name": "Coral Unisex Salon Bhubaneswar",
+  "description": "Experience luxury hair care, skin rejuvenation, and expert styling across 5 premium branches in Bhubaneswar: Khandagiri, Nayapalli, Baramunda, Kalinga Vihar, and Jaydev Vihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
